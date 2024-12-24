@@ -12,8 +12,8 @@ pip install -r requirements.txt
 python 你要运行的脚本.py
 ```
 ## 4. 注意事项
-- 如果你要解析旋转图片，请先解压缩img.zip，然后运行`server.py`，然后再运行`rotate.py`
-
+- 如果你要解析旋转图片，请先解压缩img.7z，然后运行`server.py`，然后再运行`rotate.py`
+- 压缩文件是分片压缩，如果不会解压建议百度
 # 项目结构
 ```
 rotate - 旋转图片
